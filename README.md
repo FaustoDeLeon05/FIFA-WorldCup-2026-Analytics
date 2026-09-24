@@ -5,8 +5,8 @@ Análisis de rendimiento y scouting de la Copa Mundial 2026. Este proyecto abarc
 ## Estructura del Repositorio
 
 * **Data/**: Almacena el dataset original extraído de Kaggle (FIFA World Cup 2026 Player Performance).
-* **Reports/**: Contiene los Jupyter Notebooks (`.ipynb`) con el código en Python para el Análisis Exploratorio de Datos (EDA).
-* **Source/**: Contiene el archivo final del dashboard interactivo en Power BI (`.pbix`).
+* **Reports/**: Contiene el archivo final del dashboard interactivo en Power BI (`.pbix`).
+* **Source/**: Contiene los Jupyter Notebooks (`.ipynb`) con el código en Python para el Análisis Exploratorio de Datos (EDA).
 
 ## Tecnologías y Herramientas Utilizadas
 
