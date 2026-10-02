@@ -14,9 +14,10 @@ Proyecto de análisis de rendimiento de jugadores y selecciones ambientado en la
 
 <img width="1552" height="882" alt="Pagina 1" src="https://github.com/user-attachments/assets/09bd1184-bf69-4a7b-80e7-fd81d2eb8b85" />
 
+<img width="1456" height="822" alt="Pagina 3" src="https://github.com/user-attachments/assets/d561a373-6df8-4f1d-b3a8-dbf0674046fe" />
+
 <img width="1456" height="817" alt="Pagina 4" src="https://github.com/user-attachments/assets/8e261e32-769f-498f-8bae-4c5ee73f8851" />
 
-<img width="1456" height="822" alt="Pagina 3" src="https://github.com/user-attachments/assets/d561a373-6df8-4f1d-b3a8-dbf0674046fe" />
 
 </p>
 
@@ -351,7 +352,7 @@ _Measures
 
 ## Elementos del reporte
 
-El dashboard final está compuesto por 4 páginas analíticas principales.
+El dashboard final está compuesto por 4 páginas analíticas principales, cada una con un menú de navegación que permite desplazarse entre páginas, acceder directamente a cualquier sección del reporte y restablecer los filtros aplicados.
 
 ### 1. Delanteros & Mediocampistas
 
