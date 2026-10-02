@@ -372,9 +372,9 @@ Incluye:
 
 #### Principales visualizaciones:
 
-- Goles vs. goles esperados por fase.
-- Tiros vs. tiros a puerta por fase.
-- Creación de juego por fase.
+- Goles vs. goles esperados por fase
+- Tiros vs. tiros a puerta por fase
+- Creación de juego por fase
 
 ### 2. Defensas
 
@@ -393,9 +393,9 @@ Incluye:
 
 #### Principales visualizaciones:
 
-- Entradas vs. intercepciones.
-- Despejes vs. bloqueos.
-- Duelos aéreos ganados vs. perdidos.
+- Entradas vs. intercepciones por fase
+- Despejes vs. bloqueos por fase
+- Duelos aéreos ganados vs. perdidos por fase
 
 ### 3. Porteros
 
@@ -434,7 +434,7 @@ Incluye:
 - Diferencia de goles por fase
 - Goles a favor vs. goles en contra por fase
 - Resultados por fase del torneo
-- Ranking de selecciones: goles a favor vs. goles en contra
+- Ranking de top 10 selecciones: goles a favor vs. goles en contra
   
 ## Resultado
 
