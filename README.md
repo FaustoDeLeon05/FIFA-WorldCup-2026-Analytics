@@ -10,9 +10,9 @@ Proyecto de análisis de rendimiento de jugadores y selecciones ambientado en la
 
 <p align="center">
   
-<img width="1552" height="882" alt="Pagina 2" src="https://github.com/user-attachments/assets/0e73c9dc-c68c-4722-ab71-4f6cbb5aff56" />
-
 <img width="1552" height="882" alt="Pagina 1" src="https://github.com/user-attachments/assets/09bd1184-bf69-4a7b-80e7-fd81d2eb8b85" />
+
+<img width="1552" height="882" alt="Pagina 2" src="https://github.com/user-attachments/assets/0e73c9dc-c68c-4722-ab71-4f6cbb5aff56" />
 
 <img width="1456" height="822" alt="Pagina 3" src="https://github.com/user-attachments/assets/d561a373-6df8-4f1d-b3a8-dbf0674046fe" />
 
